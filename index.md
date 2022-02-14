@@ -1,3 +1,6 @@
+ 'use strict';
+ 
+ 
  let answerOne = prompt('Do you want to go to a fancy dinner tonight to celebrate our love?... yes or no?').toLowerCase();
 
   if (answerOne === 'yes' || answerOne === 'y') {
